@@ -25,7 +25,7 @@ Bu repository, SistersLab'in Toplum Gönüllüleri Vakfı [TOG](https://www.tog.
 - Seaborn
 
 #### Veri setlerinin Hazırlanması
--Sütunlardaki veriler düzenlendi, biçimlendirildi, sayı ve noktalama işaretleri kaldırıldı.
+- Sütunlardaki veriler düzenlendi, biçimlendirildi, sayı ve noktalama işaretleri kaldırıldı.
 - NaN değer içeren verilerin bazıları silindi.
 
 #### Yapılan Analiz ve Görselleştirmeler
