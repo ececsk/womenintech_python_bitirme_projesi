@@ -30,3 +30,11 @@ Bu repository, SistersLab'in Toplum Gönüllüleri Vakfı [TOG](https://www.tog.
 
 #### Yapılan Analiz ve Görselleştirmeler
 - Yapılan analiz ve görselleştirmelerden bir kaç örnek aşağıda yer almaktadır. Detaylara kodların yer aldığı dosyadan erişebilirsiniz.
+  * Ülkelere göre çekilen film sayısı
+  * Türlere göre film sayısı
+  * Aktörlerin oynadığı film türleri
+  * Cinsiyete göre aktörler
+  * Yıllara göre kadın erkek aktor dağılımı
+  * En yüksek puan almış 10 film
+  * En fazla filme sahip şirketler
+  * Dillere göre film dağılımı
